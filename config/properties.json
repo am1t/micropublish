@@ -61,7 +61,7 @@
 			"like": {
 				"name": "Like",
 				"icon": "heart",
-				"properties": ["like-of"],
+				"properties": ["like-of", "content"],
 				"required": ["like-of"]
 			},
 			"checkin": {
